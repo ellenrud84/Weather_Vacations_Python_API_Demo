@@ -1,1 +1,1 @@
-w_key= "40b6d317fd07fde5f4b592d1c5c24695"
+w_key= "YOUR API KEY HERE"
