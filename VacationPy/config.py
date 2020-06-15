@@ -1,1 +1,1 @@
-gkey="AIzaSyACVXWqLzsWy4ryBoFLCKowGiEHeCyx6uo"
+gkey="YOUR API KEY HERE"
